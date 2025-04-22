@@ -1,3 +1,5 @@
+"use client"
+
 import SplittingAtomAnimation from "@/components/splitting-atom-animation"
 
 export default function Home() {

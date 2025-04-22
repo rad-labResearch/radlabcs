@@ -1,0 +1,6 @@
+name = "rad-lab-coming-soon"
+main = "_worker.js"
+compatibility_date = "2023-11-21"
+
+[site]
+bucket = "./out"
